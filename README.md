@@ -1,2 +1,2 @@
 # FIUJavaClasswork
-schoolwork for my java classes at FIU
+Current schoolwork for my java classes at FIU
