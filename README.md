@@ -3,8 +3,8 @@ Java schoolwork I have completed since enrolling at FIU in Fall 21. In general a
 for each individual assignment as they all should have descriptions with them.
 
 Key for which project was with which class: <br>
-CEN4072: Software Engineering
-COP3337: Computer Programming 2 Java
+CEN4072: Software Engineering <br>
+COP3337: Computer Programming 2 Java <br>
 DOB4710: Database Management
 
 
