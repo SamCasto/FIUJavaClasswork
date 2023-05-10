@@ -40,7 +40,7 @@ public class GUI {
 	//Strings needed for logging into the DB
 	private static final String DB_URL = "jdbc:mysql://localhost:3306/cop4710db";
 	private static final String DB_USER = "root";
-	private static final String DB_PASS = "Babybear1";
+	private static final String DB_PASS = "";
 	//strings for students registering
 	private static String rFirstName = "";
 	private static String rLastName = "";
